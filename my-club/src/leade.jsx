@@ -6,106 +6,106 @@ const people = [
       name: 'Bendriss Anis',
       role: 'President | Premium Member',
       imageUrl:
-        'src/graphics/anis.jpg',
+        './graphics/anis.jpg',
     },
 
     {
             name: 'Hadjij Chourouk',
     role: 'Vice President | Designer',
-    imageUrl:'src/graphics/sun.jpg',
+    imageUrl:'./graphics/sun.jpg',
     },
 
     {
         name : "Benouali Omar Walid",
         role:'Ex president | Premium Member',
-        imageUrl:'src/graphics/walid.jpg'
+        imageUrl:'./graphics/walid.jpg'
     },
 
     {
         name:'Derradji Amine Abdelbasset',
         role:'Head of RE Department | Developer',
-        imageUrl:'src/graphics/me.jpg'
+        imageUrl:'./graphics/me.jpg'
     }, {
         name: 'Taleb Ali',
         role:'Secretary General',
-         imageUrl:'src/graphics/ali2.jpg'
+         imageUrl:'./graphics/ali2.jpg'
 
     },
     {
         name:"Sibelkhir Moncef",
         role:"  Head of Developemnt Department",
-        imageUrl:"src/graphics/nmoncef.jpg"
+        imageUrl:"./graphics/nmoncef.jpg"
     },
     {
       name:"Guerroudj Abdelwaheb",
       role:"Ex vice president | Social Media Manager",
-      imageUrl:"src/graphics/waheb.jpg"
+      imageUrl:"./graphics/waheb.jpg"
     },
     {
       name:"Farah Messaouden",
       role:"Head of Design Department",
-      imageUrl:"src/graphics/farah3.jpg",
+      imageUrl:"./graphics/farah3.jpg",
     },
     {
       name:"Nour Meriem",
       role:"Head of Communication Department",
-      imageUrl:"src/graphics/nour.jpg",
+      imageUrl:"./graphics/nour.jpg",
     },
     {
       name:"Touati Billal",
       role:" Head of Social Media Department",
-      imageUrl:"src/graphics/2098873.svg"
+      imageUrl:"./graphics/2098873.svg"
     },
 
     {
       name : "Rouba Amina",
       role:"Designer",
-      imageUrl :'src/graphics/amina.jpg'
+      imageUrl :'./graphics/amina.jpg'
     },
     {
       name:"Bouarroudj Meriem",
       role:"Ex Head of Dev Department | Project Department | Premium Member",
-      imageUrl:"src/graphics/meriem.jpg"
+      imageUrl:"./graphics/meriem.jpg"
     },
     {
       name:"Tayeb-Bey Akram",
       role:"RE Manager",
-      imageUrl:"src/graphics/akram1.jpg"
+      imageUrl:"./graphics/akram1.jpg"
     },
     {
       name:"Dahmene Chaima",
       role:"Social Media | Sponsorship",
-      imageUrl:"src/graphics/2098873.svg",
+      imageUrl:"./graphics/2098873.svg",
     },
     {
       name:"Achouri Sara",
       role:" Active Membre",
-      imageUrl:"src/graphics/2098873.svg",
+      imageUrl:"./graphics/2098873.svg",
     },
     {
       name:"Boudelal Abderrahman",
       role:"EX Head of Design Department | Premium Member",
-      imageUrl:"src/graphics/boud.jpg"
+      imageUrl:"./graphics/boud.jpg"
     },
     {
       name:"Kawther",
       role:"EX Vice President | Premium Member",
-      imageUrl:"src/graphics/kawter.jpg"
+      imageUrl:"./graphics/kawter.jpg"
     },
     {
       name:"Soufi Yacine",
       role:"Designer",
-      imageUrl:"src/graphics/yasin.jpg",
+      imageUrl:"./graphics/yasin.jpg",
     },
     {
       name:"Djemai Abla",
       role:"Active Membre",
-      imageUrl:"src/graphics/2098873.svg"
+      imageUrl:"./graphics/2098873.svg"
     },
     {
       name:"Ghedir Israa",
       role:"Active Membre ",
-      imageUrl:"src/graphics/2098873.svg",
+      imageUrl:"./graphics/2098873.svg",
     },
   ]
   
