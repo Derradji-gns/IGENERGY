@@ -2,7 +2,7 @@
     display: grid;
     justify-content: center;
     height: 60rem;
-    background-image: url("src/graphics/wave.svg");
+    background-image: url("./graphics/wave.svg");
     background-size: cover;
     background-clip: border-box;
     background-position: center;
