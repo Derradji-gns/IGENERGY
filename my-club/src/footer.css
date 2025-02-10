@@ -78,7 +78,7 @@
 .logo{
 width: 5rem;
 height: inherit;
-background-image: url('src/graphics/logoClub.png');
+background-image: url('./graphics/logoClub.png');
 background-size: cover;
 background-clip: border-box;
 background-position: center;
