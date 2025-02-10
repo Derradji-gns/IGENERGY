@@ -9,7 +9,7 @@ function OurEvents() {
             <div className="cont">
 
                 <Card value="Tech hub :" desc="Great competition for programmers and IT students" img="./graphics/techhub.jpg" />
-                <Card value="IT Day :" desc="Event organized by the us featuring tech talks, workshops, and innovative projects." img="./graphics/it.jpg"/>
+                <Card value="IT Day :" desc="Event organized by us featuring tech talks, workshops, and innovative projects." img="./graphics/it.jpg"/>
                 <Card value="Energy Space :" desc="A space for communication and sharing electronic projects between members" img="./graphics/space.jpg"/>
                 <Card value="Speak Up :" desc="An event to boosts public speaking skills through talks and interactive discussions" img="./graphics/speak-logo.png"/>
                 <Card value="Teach Me How ?" desc="Workshops and an opportunity to develop club members and acquire new skills." img="./graphics/lteach.jpg"/>
