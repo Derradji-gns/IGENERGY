@@ -3,6 +3,7 @@
     display: flex;
     height: 30rem;
     background-size: cover;
+    background-color: red;
     background-clip: border-box;
     background-position: center;
     background-repeat: no-repeat;
