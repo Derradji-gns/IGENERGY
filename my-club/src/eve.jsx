@@ -7,7 +7,7 @@ function OurEvents() {
         <div className="Fchap">
                       <div className="title"><h2>OUR EVENTS</h2></div>
             <div className="cont">
-                <Card value="Tech hub :" desc="Great competition for programmers and IT students" img="C:\Users\HP\Desktop\igenergy\my-club\public\graphics\techhub.jpg"/>
+                <Card value="Tech hub :" desc="Great competition for programmers and IT students" img="./techhub.jpg" />
                 <Card value="IT Day :" desc="Event organized by the us featuring tech talks, workshops, and innovative projects." img="src/graphics/it.jpg"/>
                 <Card value="Energy Space :" desc="A space for communication and sharing electronic projects between members" img="src/graphics/space.jpg"/>
                 <Card value="Speak Up :" desc="Great day to meet new members and help them get to know the school and the club." img="src/graphics/tech-logo.jpg"/>
