@@ -32,7 +32,7 @@
 
 @media (min-width:320px) and (max-width:480px) {
     .theBig{
-        width: 480px;
+        width: 100vw;
         height: 111rem;
     }
     .conten{
@@ -52,7 +52,7 @@
 
 @media (min-width:481px) and (max-width:768px) {
     .theBig{
-        width: 100vmax;
+        width: 100vw;
         height: 125rem;
     }
     .conten{
@@ -74,7 +74,7 @@
 
 @media (min-width:769px) and (max-width:1024px) {
     .theBig{
-        width: 100vmax;
+        width: 100vw;
         height: 125rem;
     }
     .conten{

@@ -40,7 +40,7 @@
 
 @media (min-width:320px) and (max-width:480px) {
     .Fchap{
-        width: 480px;
+        width: 100vw;
         height: 700px;
         display: grid;
         
@@ -50,7 +50,7 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         column-gap: 0px;
-        width: 480px;
+        width: 100%;
         height: 550px;
         justify-content: center;
         align-items: center;
@@ -58,7 +58,7 @@
 }
 @media (min-width:481px) and (max-width:768px) {
     .Fchap{
-        width: 100vmax;
+        width: 100vw;
         height: 1300px;
         display: grid;
         
@@ -69,14 +69,14 @@
         column-gap:10px;
         justify-content: center;
         align-items: center;
-        width: 100vmax;
+        width: 100vw;
         height: 1200px;
      }
 }
 
 @media (min-width:769px) and (max-width:1024px) {
     .Fchap{
-        width: 100vmax;
+        width: 100vw;
         height: 1200px;
         display: grid;
         

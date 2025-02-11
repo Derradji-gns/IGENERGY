@@ -43,7 +43,7 @@
 @media (min-width:320px) and (max-width:480px) {
     .Hparent{
         margin-top: 70px;
-        width: 480px;
+        width: 100vw;
         height: 680px;
         display: flex;
         justify-content: start;
@@ -67,7 +67,7 @@
 
 @media (min-width:481px) and (max-width:768px) {
     .Hparent{
-        width: 100vmax;
+        width: 100vw;
         height: 700px;
         margin-top: 70px;
         display: flex;
@@ -92,7 +92,7 @@
 
 @media (min-width:769px) and (max-width:1024px) {
     .Hparent{
-        width: 100vmax;
+        width: 100vw;
         height: 700px;
         margin-top: 70px;
         display: flex;

@@ -100,7 +100,7 @@ margin-left: 05%;
 
 @media (min-width:320px) and (max-width:480px) {
     .main{
-        width: 480px;
+        width: 100vw;
         height: 20rem;
     }
     .wf{
@@ -152,7 +152,7 @@ margin-left: 05%;
 
 @media (min-width:481px) and (max-width:768px) {
     .main{
-        width: 100vmax;
+        width: 100vw;
         background-color: #00bfff;
     }
     .wf{
@@ -165,6 +165,6 @@ margin-left: 05%;
 
 @media (min-width:769px) and (max-width:1024px) {
     .main{
-        width: 100vmax;
+        width: 100vw;
     }
 }

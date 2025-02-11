@@ -31,7 +31,7 @@ align-items: center;
 
 @media (min-width:320px) and (max-width:480px) {
     .big{
-        width: 480px;
+        width: 100vw;
         height: 33rem;
         display: flex;
         justify-content: space-around;
@@ -54,7 +54,7 @@ align-items: center;
 
 @media (min-width:481px) and (max-width:768px) {
     .big{
-        width:100vmax;
+        width:100vw;
         height: 34rem;
         background-color: #00bfff;
         display: flex;
@@ -69,7 +69,7 @@ align-items: center;
 
 @media (min-width:769px) and (max-width:1024px) {
     .big{
-        width: 100vmax;
+        width: 100vw;
         height: 30rem;
         background-color: #00bfff;
         display: flex;

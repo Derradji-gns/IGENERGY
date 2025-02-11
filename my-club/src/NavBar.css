@@ -39,7 +39,7 @@ only-img{
         position: absolute;
         top: 0;
         left: 0;
-        width: 480px;
+        width: 100vw;
         height: 70px;
         background-color: #00bfff;
 
@@ -65,7 +65,7 @@ only-img{
         position: absolute;
         top: 0;
         left: 0;
-        width: 100vmax;
+        width: 100vw;
         height: 70px;
     }
     .borsa{
@@ -90,7 +90,7 @@ only-img{
         position: absolute;
         top: 0;
         left: 0;
-        width: 100vmax;
+        width: 100vw;
         height: 70px;
     }
     .borsa{

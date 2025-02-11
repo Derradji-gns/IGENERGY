@@ -23,11 +23,10 @@ const people = [
 
     {
         name:'Derradji Amine Abdelbasset',
-<<<<<<< HEAD
-        role:'Head of RE Department | Developer',
-=======
+
+
         role:'President of RE Department | Developer',
->>>>>>> 7046b4d (save modifing project)
+
         imageUrl:'./graphics/me.jpg'
     }, {
         name: 'Taleb Ali',
@@ -37,11 +36,9 @@ const people = [
     },
     {
         name:"Sibelkhir Moncef",
-<<<<<<< HEAD
-        role:"  Head of Developemnt Department",
-=======
+
         role:"  President of Developemnt Department",
->>>>>>> 7046b4d (save modifing project)
+
         imageUrl:"./graphics/nmoncef.jpg"
     },
     {
@@ -51,31 +48,19 @@ const people = [
     },
     {
       name:"Farah Messaouden",
-<<<<<<< HEAD
-      role:"Head of Design Department",
-=======
       role:"president of Design Department",
->>>>>>> 7046b4d (save modifing project)
+
       imageUrl:"./graphics/farah3.jpg",
     },
     {
       name:"Nour Meriem",
-<<<<<<< HEAD
-      role:"Head of Communication Department",
-=======
       role:"President of Communication Department",
->>>>>>> 7046b4d (save modifing project)
       imageUrl:"./graphics/nour.jpg",
     },
     {
       name:"Touati Billal",
-<<<<<<< HEAD
-      role:" Head of Social Media Department",
-      imageUrl:"./graphics/2098873.svg"
-=======
       role:" President of Social Media Department",
       imageUrl:"./graphics/billal.jpg"
->>>>>>> 7046b4d (save modifing project)
     },
 
     {
@@ -85,11 +70,7 @@ const people = [
     },
     {
       name:"Bouarroudj Meriem",
-<<<<<<< HEAD
-      role:"Ex Head of Dev Department | Project Department | Premium Member",
-=======
       role:"Ex President of Dev Department | Project Department | Premium Member",
->>>>>>> 7046b4d (save modifing project)
       imageUrl:"./graphics/meriem.jpg"
     },
     {
@@ -104,19 +85,12 @@ const people = [
     },
     {
       name:"Achouri Sara",
-
-      role:" Active Membre",
       role:"Ex Vice President of External Relations",
-7046b4d (save modifing project)
       imageUrl:"./graphics/2098873.svg",
     },
     {
       name:"Boudelal Abderrahman",
-
-      role:"EX Head of Design Department | Premium Member",
-
       role:"EX president of Design Department | Premium Member",
-7046b4d (save modifing project)
       imageUrl:"./graphics/boud.jpg"
     },
     {
