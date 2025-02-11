@@ -116,7 +116,7 @@ const people = [
     {
       name:"Bouziane Mohammed",
       role:"Ex vice President of interior relations ",
-      imageUrl:"./graphics/bouby.jpg"
+      imageUrl:"./graphics/bouby.JPG"
     },
     {
       name:"Grine Soundouss",
