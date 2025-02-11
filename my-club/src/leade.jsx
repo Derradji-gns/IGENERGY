@@ -116,7 +116,17 @@ const people = [
     {
       name:"Bouziane Mohammed",
       role:"Ex vice President of interior relations ",
-      imageUrl:"./graphics/2098873.svg"
+      imageUrl:"./graphics/bouby.jpg"
+    },
+    {
+      name:"Grine Soundouss",
+      role:"Active Membre",
+      imageUrl:"./graphics/soun.jpg"
+    },
+    {
+      name:"Dadda Amani",
+      role:"Social Media Manager | Photographer",
+      imageUrl:"./graphics/dada.jpg"
     }
   ]
   

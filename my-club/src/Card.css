@@ -38,8 +38,8 @@
 
 @media (min-width:320px) and (max-width:480px) {
     .content{
-        width: 11rem;
-        height: 10rem;
+        width: 12rem;
+        height: 13rem;
     }
     .pic{
         width: 100%;
@@ -47,7 +47,7 @@
     }
     .text{
         width: 100%;
-        height: 60%;
+        height: 55%;
         display: grid;
         align-items: center;
         justify-content: center;

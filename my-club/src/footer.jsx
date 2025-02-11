@@ -7,9 +7,11 @@ function Footer() {
                     <h1>JOIN IGENERGY NOW !</h1>
                     <p>It's height time for you guys to join the Egenergy family to gain new skills and meet great people. All what you have to do is scan the code Bar here and start an amazing advanture with us </p>
                 </div>
-             <div className="cusin">
+                <div className="cusin">
                 <div className="graph"><img src='./graphics/codebar.jpg'></img></div>
              </div>
+
+
 
         </div>
             <div className="foot">
