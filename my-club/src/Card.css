@@ -38,8 +38,8 @@
 
 @media (min-width:320px) and (max-width:480px) {
     .content{
-        width: 12rem;
-        height: 13rem;
+        width: 10rem;
+        height: 12.5rem;
     }
     .pic{
         width: 100%;
@@ -66,8 +66,8 @@
 
 @media (min-width:481px) and(max-width:768px) {
     .content{
-        width: 110rem;
-        height: 10rem;
+        width: 10rem;
+        height: 12.5rem;
     }
     .pic{
         width: 100%;

@@ -28,7 +28,7 @@
 
 @media (min-width:320px) and (max-width:480px) {
     .parent{
-        width:12rem;
+        width:10rem;
         height: 14rem;
         background-color: white;
     }

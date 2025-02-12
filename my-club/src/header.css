@@ -56,11 +56,12 @@
     }
     .son h1{
         text-align: center;
-        font-size: 2.2rem;
+        font-size: 32px;
+        padding:12px ;
     }
     .son p{
         text-align: center;
-        font-size: 1.35rem;
+        font-size: 20px;
     }
 
 }
@@ -79,13 +80,13 @@
         height: 550px;
     }
     .son h1{
-       text-align: center;
-       font-size: 8vb;
+        font-size: 32px;
+        text-align: center;
+        padding:12px ;
     }
     .son p{
         text-align: center;
-        font-size: 1.35rem;
-        background-color: redd;
+        font-size: 20px;
         height: 400px;
     }
 }
